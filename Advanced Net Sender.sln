@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Advanced Net Sender", "Advanced Net Sender.vbproj", "{E91A50F0-698E-4F83-9068-C554CE6A6C64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E91A50F0-698E-4F83-9068-C554CE6A6C64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91A50F0-698E-4F83-9068-C554CE6A6C64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91A50F0-698E-4F83-9068-C554CE6A6C64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91A50F0-698E-4F83-9068-C554CE6A6C64}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

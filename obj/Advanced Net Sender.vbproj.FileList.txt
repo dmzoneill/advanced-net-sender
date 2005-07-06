@@ -1,0 +1,12 @@
+obj\Debug\Advanced Net Sender.pdb
+bin\Advanced Net Sender.exe
+bin\Advanced Net Sender.pdb
+bin\Advanced Net Sender.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Advanced_Net_Sender.Form1.resources
+obj\Debug\Advanced_Net_Sender.Form2.resources
+obj\Debug\Advanced_Net_Sender.Form3.resources
+obj\Debug\Advanced_Net_Sender.Form4.resources
+obj\Debug\Advanced Net Sender.vbproj.GenerateResource.Cache
+obj\Debug\Advanced Net Sender.exe
+obj\Debug\Advanced Net Sender.xml

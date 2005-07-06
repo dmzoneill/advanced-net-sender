@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?>
+<UpgradeLog>
+<Properties><Property Name="Solution" Value="Advanced Net Sender">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\root\Desktop\Advanced Net Sender\Advanced Net Sender.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\root\Desktop\Advanced Net Sender\Advanced Net Sender.suo">
+</Property><Property Name="Date" Value="08 September 2006">
+</Property><Property Name="Time" Value="04:01">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Advanced Net Sender.sln" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\Advanced Net Sender\Backup\Advanced Net Sender.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Advanced Net Sender.suo" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\Advanced Net Sender\Backup\Advanced Net Sender.suo">
+</Event><Event ErrorLevel="0" Project="Advanced Net Sender" Source="Advanced Net Sender.vbproj" Description="Project file successfully backed up as C:\Documents and Settings\root\Desktop\Advanced Net Sender\Backup\Advanced Net Sender.vbproj">
+</Event><Event ErrorLevel="0" Project="Advanced Net Sender" Source="Advanced Net Sender.vbproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\root\Desktop\Advanced Net Sender\Backup\Advanced Net Sender.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Advanced Net Sender" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\Advanced Net Sender\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Advanced Net Sender" Source="Form1.vb" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\Advanced Net Sender\Backup\Form1.vb">
+</Event><Event ErrorLevel="0" Project="Advanced Net Sender" Source="Form2.vb" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\Advanced Net Sender\Backup\Form2.vb">
+</Event><Event ErrorLevel="0" Project="Advanced Net Sender" Source="Form3.vb" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\Advanced Net Sender\Backup\Form3.vb">
+</Event><Event ErrorLevel="0" Project="Advanced Net Sender" Source="Form4.vb" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\Advanced Net Sender\Backup\Form4.vb">
+</Event><Event ErrorLevel="0" Project="Advanced Net Sender" Source="Form1.resx" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\Advanced Net Sender\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Advanced Net Sender" Source="Form2.resx" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\Advanced Net Sender\Backup\Form2.resx">
+</Event><Event ErrorLevel="0" Project="Advanced Net Sender" Source="Form3.resx" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\Advanced Net Sender\Backup\Form3.resx">
+</Event><Event ErrorLevel="0" Project="Advanced Net Sender" Source="Form4.resx" Description="File successfully backed up as C:\Documents and Settings\root\Desktop\Advanced Net Sender\Backup\Form4.resx">
+</Event><Event ErrorLevel="0" Project="Advanced Net Sender" Source="Advanced Net Sender.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Advanced Net Sender" Source="Advanced Net Sender.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Advanced Net Sender.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Advanced Net Sender.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Advanced Net Sender" Source="Advanced Net Sender.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
