@@ -1,5 +1,9 @@
 # Advanced Net Sender
 
+<p align="center">
+  <img src=".github/logo.png" alt="advanced-net-sender logo" width="128" />
+</p>
+
 A Windows Forms tool for sending network messages to other computers,
 with a German-language interface.
 
